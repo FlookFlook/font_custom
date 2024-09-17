@@ -3,9 +3,7 @@ ensure font_custom
 Client.
 
 fontId = RegisterFontId('Mitr')  
-RegisterFontFile('Mitr')	  
+RegisterFontFile('Mitr')
 
-
-SetTextFont(fontId)
+SetTextFont(fontId)              
 SetTextProportional(0)
-
