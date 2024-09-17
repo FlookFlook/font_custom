@@ -1,6 +1,6 @@
 ensure font_custom
 
-Client.
+คำสั่งนี้ทำงานฝั่ง Client
 
 fontId = RegisterFontId('Mitr')  
 RegisterFontFile('Mitr')
